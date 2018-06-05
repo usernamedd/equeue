@@ -13,3 +13,7 @@ obj
 *.testsettings
 *.vsmdi
 TestResult.xml
+logs/
+.vscode/
+*.txt
+src/.vs/

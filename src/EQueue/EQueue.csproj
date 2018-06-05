@@ -15,7 +15,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ECommon" Version="2.5.7" />
+    <ProjectReference Include="..\ECommon\ECommon.csproj" />
   </ItemGroup>
 
 </Project>
